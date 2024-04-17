@@ -6,6 +6,8 @@ import android.os.Bundle
 import androidx.activity.result.contract.ActivityResultContracts
 import im.ntub.myapplicationactivity.databinding.ActivityMainBinding
 
+// 組員：11056002 黃安銚、11056032 曾聖荃、1105650 陳一吉
+
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
